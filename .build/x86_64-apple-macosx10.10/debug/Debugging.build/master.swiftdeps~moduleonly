@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "40341bb074e586c048876423b54572e1"
+build_time: [1539918279, 385683000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Debugging/Debuggable.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Debugging/Demangler.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Debugging/SourceLocation.swift": [1539918241, 0]

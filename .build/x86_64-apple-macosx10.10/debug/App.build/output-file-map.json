@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/App/Controllers/TodoController.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/TodoController.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/TodoController.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/TodoController.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/App/Models/Todo.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/Todo.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/Models/Todo.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/Todo~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/Todo.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/App/app.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/app.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/app.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/app.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/App/boot.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/boot.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/boot.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/App/configure.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/configure.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/App/routes.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/routes.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/App.build/routes.swiftdeps"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

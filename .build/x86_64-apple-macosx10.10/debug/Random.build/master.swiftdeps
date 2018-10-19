@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "61c6574b1d03a6990d05ae3db40cdcb8"
+build_time: [1539918296, 199959000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Random/Array+Random.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Random/OSRandom.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Random/RandomProtocol.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Random/URandom.swift": [1539918241, 0]

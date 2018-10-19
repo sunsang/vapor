@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "f7b54d0330d0e1171b3e9a9082575095"
+build_time: [1539918306, 879052000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Exports.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validatable.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/ValidationError.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validations.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/ValidatorType.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/AndValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/CharacterSetValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/CountValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/EmailValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/EmptyValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/InValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/NilIgnoringValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/NilValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/NotValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/OrValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/RangeValidator.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/validation.git-5686262525053663892/Sources/Validation/Validators/URLValidator.swift": [1539918239, 0]

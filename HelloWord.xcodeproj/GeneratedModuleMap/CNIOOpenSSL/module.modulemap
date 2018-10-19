@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/CNIOOpenSSL/include"
+    export *
+}

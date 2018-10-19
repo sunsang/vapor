@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "ca26a287318c9915374fffa58d7a1ce3"
+build_time: [1539918320, 451633000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Base/CommandOption.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Base/CommandRunnable.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Command/Command.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Command/CommandArgument.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Config/CommandConfig.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Config/Commands.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Group/BasicCommandGroup.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Group/CommandGroup.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Run/CommandContext.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Run/CommandInput.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Run/Console+Run.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Run/Output+Autocomplete.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Run/Output+Help.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Utilities/CommandError.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Utilities/Exports.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Command/Utilities/Utilities.swift": [1539918240, 0]

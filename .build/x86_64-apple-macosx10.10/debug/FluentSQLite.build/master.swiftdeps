@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "4adc4cb9ca1ceb34e892796b92f9c33a"
+build_time: [1539918331, 115507000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/Exports.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteError.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteModels.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteTypes.swift": [1539918238, 0]

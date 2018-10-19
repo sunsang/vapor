@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "94ca06ded89573ea422863e6967f2b5d"
+build_time: [1539918295, 616465000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Async+NIO.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/AsyncError.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Collection+Future.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Deprecated.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Exports.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+DoCatch.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+Flatten.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+Global.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+Map.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+Transform.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+Variadic.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Future+Void.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/FutureType.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/QueueHandler.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Async/Worker.swift": [1539918241, 0]

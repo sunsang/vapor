@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "9db0840fddc23bb854d1c9bea8b3c267"
+build_time: [1539918315, 97454000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/BCrypt/BCryptDigest.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Cipher/Cipher.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Digest/Digest.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Digest/DigestAlgorithm.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/MAC/HMAC.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/MAC/OTP.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/RSA/RSA.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/RSA/RSAKey.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/RSA/RSAPadding.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Random/CryptoRandom.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Utilities/Base32.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Utilities/CryptoError.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Utilities/Deprecated.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/Crypto/Utilities/Exports.swift": [1539918241, 0]

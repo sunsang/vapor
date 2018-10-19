@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "e98111ba14aae68075b9aed8c2fc2a39"
+build_time: [1539918312, 39926000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Parameter/Parameter.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Parameter/ParameterValue.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Parameter/Parameters.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Register/PathComponent.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Register/Route.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Register/RouterOption.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Routing/RoutableComponent.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Routing/RouterNode.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Routing/TrieRouter.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Utilities/Deprecated.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Utilities/Exports.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/routing.git--4844404746360018295/Sources/Routing/Utilities/RoutingError.swift": [1539918239, 0]

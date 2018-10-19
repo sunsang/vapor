@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "315007b22fc554d843c916258b0c4fd4"
+build_time: [1539918293, 130127000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOTLS/SNIHandler.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOTLS/TLSEvents.swift": [1539918238, 0]

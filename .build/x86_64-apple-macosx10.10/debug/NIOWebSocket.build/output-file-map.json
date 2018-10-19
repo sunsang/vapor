@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/Base64.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/Base64.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/Base64.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/Base64~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/Base64.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/SHA1.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/SHA1.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/SHA1.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/SHA1~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/SHA1.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketErrorCodes.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketErrorCodes.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketErrorCodes.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketErrorCodes~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketErrorCodes.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketFrame.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrame.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrame.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrame~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrame.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameDecoder.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameDecoder.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameDecoder.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameEncoder.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameEncoder.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketFrameEncoder.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketOpcode.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketOpcode.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketOpcode.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketOpcode~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketOpcode.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOWebSocket/WebSocketUpgrader.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketUpgrader.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketUpgrader.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOWebSocket.build/WebSocketUpgrader.swiftdeps"
+  }
+}

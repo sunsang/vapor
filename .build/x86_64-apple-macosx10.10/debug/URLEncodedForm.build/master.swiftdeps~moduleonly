@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "e947c5a9e60c12e70cc2cd2351943ede"
+build_time: [1539918306, 881837000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Utilities/Exports.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/url-encoded-form.git-6880606379968884505/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1539918241, 0]

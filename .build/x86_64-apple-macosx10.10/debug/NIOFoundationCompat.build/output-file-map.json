@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swiftdeps"
+  }
+}

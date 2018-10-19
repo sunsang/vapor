@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPDecoder.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPDecoder.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPDecoder.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPDecoder.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPEncoder.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPEncoder.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPEncoder.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPEncoder.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPPipelineSetup.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPPipelineSetup.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPPipelineSetup.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPPipelineSetup~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPPipelineSetup.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPResponseCompressor.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPResponseCompressor.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPResponseCompressor.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPResponseCompressor~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPResponseCompressor.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerPipelineHandler.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerPipelineHandler.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerPipelineHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerPipelineHandler.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPTypes.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPTypes.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPTypes.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPTypes.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPUpgradeHandler.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPUpgradeHandler.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPUpgradeHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.build/HTTPUpgradeHandler.swiftdeps"
+  }
+}

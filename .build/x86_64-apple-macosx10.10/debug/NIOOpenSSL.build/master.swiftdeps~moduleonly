@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "fea2a99e89f7977fefcbbabeebf0e41b"
+build_time: [1539918295, 724331000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/IdentityVerification.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/PosixPort.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLCertificate.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLConnection.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLContext.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLErrors.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLInit.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio-ssl.git-8502154137117992337/Sources/NIOOpenSSL/TLSConfiguration.swift": [1539918241, 0]

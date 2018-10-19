@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Logging/Exports.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Logging/LogLevel.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Logging/Logger.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/console.git-2755603573940926646/Sources/Logging/PrintLogger.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swiftdeps"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/Exports.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/Exports.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteError.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteError.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteProvider.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteProvider.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteQuery.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteQuery.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/FluentSQLiteSchema.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/FluentSQLiteSchema.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteModels.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteModels.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/fluent-sqlite.git-2294650027361755373/Sources/FluentSQLite/SQLiteTypes.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.build/SQLiteTypes.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "6d79ab94769c4e744330adb7536c0e19"
+build_time: [1539918332, 814995000]
+inputs:
+  "/Users/nice/HelloWord/Sources/Run/main.swift": [1539845444, 0]

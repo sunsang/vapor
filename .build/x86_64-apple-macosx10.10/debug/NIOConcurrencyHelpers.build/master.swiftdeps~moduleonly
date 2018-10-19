@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "f11342bb748a13d61ee1352c1f3dd481"
+build_time: [1539918286, 931632000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOConcurrencyHelpers/atomics.swift": [1539918238, 0]
+  "/Users/nice/HelloWord/.build/checkouts/swift-nio.git-5005363973595484456/Sources/NIOConcurrencyHelpers/lock.swift": [1539918238, 0]

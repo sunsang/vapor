@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/nice/HelloWord/.build/checkouts/crypto.git--3937561158972323303/Sources/CCryptoOpenSSL/include"
+    export *
+}

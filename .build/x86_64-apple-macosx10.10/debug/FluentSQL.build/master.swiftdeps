@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "676dcbdb711fa3799b592b879b532f2e"
+build_time: [1539918328, 901413000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/Exports.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/FluentSQLQuery.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/FluentSQLSchema.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/SQL+Contains.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/SQL+JoinSupporting.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/SQL+QuerySupporting.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/fluent.git-6829944210039798771/Sources/FluentSQL/SchemaBuilder+Field.swift": [1539918240, 0]

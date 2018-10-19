@@ -1,0 +1,155 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/BasicKey.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/CaseInsensitiveString.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/CodableReflection/Decodable+Reflectable.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Decodable+Reflectable.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CodableReflection/Decodable+Reflectable.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Decodable+Reflectable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Decodable+Reflectable.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/CodableReflection/ReflectionDecodable.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecodable.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CodableReflection/ReflectionDecodable.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecodable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecodable.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/CodableReflection/ReflectionDecoders.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecoders.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CodableReflection/ReflectionDecoders.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecoders~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecoders.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/CoreError.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Data+Base64URL.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Data+Hex.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/DataCoders.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Deprecated.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/DirectoryConfig.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Exports.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/File.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/File.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/File.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/File~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/File.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Future+Unwrap.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/FutureEncoder.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/HeaderValue.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/LosslessDataConvertible.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/MediaType.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/NestedData.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/NotFound.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/OptionalType.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Process+Execute.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Reflectable.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/String+Utilities.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities.swiftdeps"
+  },
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/Core/Thread+Async.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "95bd73d3722767e9739bd3a875e26142"
+build_time: [1539918279, 592081000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/core.git--3062928766978654394/Sources/COperatingSystem/libc.swift": [1539918241, 0]

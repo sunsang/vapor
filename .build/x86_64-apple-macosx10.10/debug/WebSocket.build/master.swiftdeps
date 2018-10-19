@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "88d47947088cc70d72a15b681b7d56ae"
+build_time: [1539918321, 202747000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/websocket.git-3197443120099655633/Sources/WebSocket/Exports.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/websocket.git-3197443120099655633/Sources/WebSocket/WebSocket+Client.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/websocket.git-3197443120099655633/Sources/WebSocket/WebSocket+Server.swift": [1539918239, 0]
+  "/Users/nice/HelloWord/.build/checkouts/websocket.git-3197443120099655633/Sources/WebSocket/WebSocket.swift": [1539918240, 0]
+  "/Users/nice/HelloWord/.build/checkouts/websocket.git-3197443120099655633/Sources/WebSocket/WebSocketHandler.swift": [1539918240, 0]

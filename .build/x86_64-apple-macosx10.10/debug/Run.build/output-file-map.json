@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/nice/HelloWord/Sources/Run/main.swift": {
+    "dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Run.build/main.d",
+    "object": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/nice/HelloWord/.build/x86_64-apple-macosx10.10/debug/Run.build/main.swiftdeps"
+  }
+}

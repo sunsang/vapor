@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "16cfb77e680d79626eeaa6b3ba3169cc"
+build_time: [1539918306, 880344000]
+inputs:
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/Exports.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/FormDataDecoder.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/FormDataEncoder.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/MultipartError.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/MultipartParser.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/MultipartPart.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/MultipartPartConvertible.swift": [1539918241, 0]
+  "/Users/nice/HelloWord/.build/checkouts/multipart.git-6422126309076101960/Sources/Multipart/MultipartSerializer.swift": [1539918241, 0]
